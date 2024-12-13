@@ -37,7 +37,9 @@
 
 ### 1. Clone the Repository
 
-First, clone the repository to your local machine:
+First, clone the repository to your local machine: https://github.com/YasminIlagan/TalaDamdamin-DBMS
+OOP Repository: https://github.com/YasminIlagan/TalaDamdamin_Mental-Health-Journal_OOP-FinalProject 
+
 
 ### 2. Set Up MySQL Database 🛠️
 Create a new database named taladamdamin in your MySQL instance.
